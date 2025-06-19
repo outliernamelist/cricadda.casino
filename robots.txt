@@ -35,4 +35,5 @@ Disallow:/
 User-agent:meta-externalagent
 Disallow:/
 
-SiteMap: https://www.betbrick7.com/sitemap.xml
+SiteMap: https://www.cricadda.casino/sitemap.xml
+SiteMap: https://www.cricadda.casino/images_sitemap.xml
